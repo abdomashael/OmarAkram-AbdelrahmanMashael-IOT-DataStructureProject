@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1576875669 source:i:\iti\7-data_structue\project\pro\pro\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576875669 
+
+1577196212 source:/home/mashael/Downloads/Project/pro/pro/main.c
+	<stdio.h>
+	<stdlib.h>
+	"getch.h"
+	"queue.h"
+
+1577196167 /home/mashael/Downloads/Project/pro/pro/getch.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
+1577191311 /home/mashael/Downloads/Project/pro/pro/queue.h
+	"cust_node.h"
+
+1577191599 /home/mashael/Downloads/Project/pro/pro/cust_node.h
+
+1577552580 source:i:\iti\7-data_structue\project_final\pro\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"queue.h"
+
+1577188966 i:\iti\7-data_structue\project_final\pro\getch.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
+1577289367 i:\iti\7-data_structue\project_final\pro\queue.h
+	"cust_node.h"
+
+1577548899 i:\iti\7-data_structue\project_final\pro\cust_node.h
+
